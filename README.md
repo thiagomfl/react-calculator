@@ -16,8 +16,6 @@ npm start
 # App runs on http://localhost:3000
 ```
 
-## App Info
-
 ### Author
 
 Thiago Moura
